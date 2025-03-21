@@ -2,7 +2,8 @@ TASK MANAGER
 
 Setup
 
-create new folder (optional)
+Create new folder (optional)
+
 git clone https://github.com/Jayyyig/colminas_django_mtproj.git,
 cd colminas_django_mtproj,
 cd task_manager,
